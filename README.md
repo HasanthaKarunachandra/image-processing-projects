@@ -12,8 +12,29 @@ This repository contains various image processing projects implemented using Pyt
 ### Getting Started
 ##### Prerequisites
 To run the projects, you will need:
-- Python 3.8 or higher
+- Python 3.12.3 or higher
 - Jupyter Notebook installed
 - 
 ##### Installation
-Clone the repository:
+1. Clone the repository: https://github.com/HasanthaKarunachandra/image-processing-projects.git
+2. Install the required Python packages: pip install -r requirements.txt
+3. jupyter notebook
+4. Open project_notebook.ipynb and run the cells.
+
+### Example Projects
+The repository includes examples of:
+1. Rice grain count - count of rice using contours feature extraction
+
+### Contributing
+Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
+
+### Acknowledgments
+###### Libraries Used:
+- numpy
+- matplotlib
+- opencv-python
+
+
+
+
+
